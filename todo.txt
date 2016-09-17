@@ -1,0 +1,4 @@
+TODO
+* RL should support application of policies based on keys (perhaps extracted from an HTTP header or some other arbitrary source)
+* RL should support limiting calls to methods themselves
+* RL should support rate limiting to HTTP endppints not proxied through a Zuul (perhaps as a plain-ol javax.servlet.Filter)
